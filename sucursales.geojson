@@ -1,0 +1,216 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Allen",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Tomás Orell, 400 esquina Mitre (Allen) Río Negro",
+        "Coordinates": "-38.9781966 / -67.82393929999999",
+        "Latitud": "-38.9781966",
+        "Longitud": "-67.82393929999999"
+      },
+      "geometry": { "type": "Point", "coordinates": [-67.8239565, -38.9784329] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Catriel",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Ingeniero Eduardo Garro esquina Formosa. (Catriel) Rio Negro",
+        "Coordinates": "-37.883889 / -67.798056",
+        "Latitud": "-37.883889",
+        "Longitud": "-67.798056"
+      },
+      "geometry": { "type": "Point", "coordinates": [-67.7981335, -37.883889] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Choele Choel",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "República Oriental del Uruguay, 101 (Choele-choel) Río Negro",
+        "Coordinates": "-39.28852 / -65.661422",
+        "Latitud": "-39.28852",
+        "Longitud": "-65.661422"
+      },
+      "geometry": { "type": "Point", "coordinates": [-65.6613038, -39.2883286] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Cinco Saltos",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Avenida Rivadavia 731 Cinco Saltos Río Negro",
+        "Coordinates": "-38.82685252369038 / -68.06898012160867",
+        "Latitud": "-38.82685252369038",
+        "Longitud": "-68.06898012160867"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.0689225, -38.8268136] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Cipolletti",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Perito Moreno 50 (Cipolletti) Rio Negro Province",
+        "Coordinates": "-38.938333 / -68.002222",
+        "Latitud": "-38.938333",
+        "Longitud": "-68.002222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.002350671754, -38.938466992151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC El Bolson",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Avenida Sarmiento, 2957 (El Bolsón) Río Negro",
+        "Coordinates": "-41.96199300000001 / -71.53681349999999",
+        "Latitud": "-41.96199300000001",
+        "Longitud": "-71.5368135"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.536725, -41.962025] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Gral Conesa",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Brown 560 (General Conesa) Rio Negro Province",
+        "Coordinates": "-40.1025 / -64.455278",
+        "Latitud": "-40.1025",
+        "Longitud": "-64.455278"
+      },
+      "geometry": { "type": "Point", "coordinates": [-64.4554211, -40.1027392] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Gral Roca",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "General Conrado Villegas, 635 (General Roca) Río Negro",
+        "Coordinates": "-39.0253588 / -67.5728792",
+        "Latitud": "-39.0253588",
+        "Longitud": "-67.5728792"
+      },
+      "geometry": { "type": "Point", "coordinates": [-67.5728056, -39.0254251] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Ing Jacobacci",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Martín Coronado 457 (Ingeniero Jacobacci) Rio Negro",
+        "Coordinates": "-40.7293897 / -64.9607338",
+        "Latitud": "-40.7293897",
+        "Longitud": "-64.9607338"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.5486998, -41.3276522] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Las Grutas",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Colectora, 420 (Las Grutas) Rio Negro",
+        "Coordinates": "-40.799444 / -65.080278",
+        "Latitud": "-40.799444",
+        "Longitud": "-65.080278"
+      },
+      "geometry": { "type": "Point", "coordinates": [-65.0805055, -40.7994708] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Maquinchao",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Sgto. Manuel Ocón 637(Maquinchao) Rio Negro Province",
+        "Coordinates": "-41.255 / -68.700278",
+        "Latitud": "-41.255",
+        "Longitud": "-68.700278"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.7004883, -41.2550856] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC San Antonio Oeste",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Juan Monzoategui 220, San Antonio Oeste Río Negro,Argentina",
+        "Coordinates": "-40.7293897 / -64.9607338",
+        "Latitud": "-40.7293897",
+        "Longitud": "-64.9607338"
+      },
+      "geometry": { "type": "Point", "coordinates": [-64.9603786, -40.7295256] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Sierra Grande",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Calle 7 Nro 80 (Sierra Grande) Río Negro Province",
+        "Coordinates": "-41.6771714859 / -65.3708463556",
+        "Latitud": "-41.6771714859",
+        "Longitud": "-65.3708463556"
+      },
+      "geometry": { "type": "Point", "coordinates": [-65.3560251, -41.6081699] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Valcheta",
+        "Objects": "2 objects",
+        "Description": "Red IT",
+        "Address": "Primeros Pobladores S/n.Valcheta,Rio Negro Province",
+        "Coordinates": "-40.671944 / -66.170556",
+        "Latitud": "-40.671944",
+        "Longitud": "-66.170556"
+      },
+      "geometry": { "type": "Point", "coordinates": [-66.1708052, -40.6720735] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Viedma",
+        "Objects": "3 objects",
+        "Description": "Red IT",
+        "Address": "Alvear, 269 (Viedma) Río Negro",
+        "Coordinates": "-40.8038453 / -62.9947391",
+        "Latitud": "-40.8038453",
+        "Longitud": "-62.9947391"
+      },
+      "geometry": { "type": "Point", "coordinates": [-62.9940472, -40.8037611] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SUC Villa Regina",
+        "Objects": "1 objects",
+        "Description": "Red IT",
+        "Address": "Avenida Cipolletti, 37 (Villa Regina) Rio Negro",
+        "Coordinates": "-39.0959648 / -67.0845342",
+        "Latitud": "-39.0959648",
+        "Longitud": "-67.0845342"
+      },
+      "geometry": { "type": "Point", "coordinates": [-67.0846117, -39.0961522] }
+    }
+  ]
+}
